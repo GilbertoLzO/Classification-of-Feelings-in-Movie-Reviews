@@ -1,0 +1,13 @@
+requirements
+
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+nltk
+spacy
+tqdm
+lightgbm
+
+Asegúrate de correr nltk.download('stopwords') y spacy download en_core_web_sm antes de ejecutar el código completo.
