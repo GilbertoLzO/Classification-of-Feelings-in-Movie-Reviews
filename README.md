@@ -68,6 +68,7 @@ Los datos fueron proporcionados por Andrew L. Maas, Raymond E. Daly, Peter T. Ph
 
 Si deseas reproducir este análisis, puedes:
 - Usar un conjunto similar como [IMDB Dataset en Kaggle](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
+- Asegúrate de correr nltk.download('stopwords') y spacy download en_core_web_sm antes de ejecutar el código completo.
 
 ---
 
