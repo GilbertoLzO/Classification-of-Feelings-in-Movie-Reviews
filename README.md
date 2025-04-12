@@ -62,9 +62,12 @@ Si se busca un enfoque más balanceado para reseñas ambiguas, el Modelo 2 (spaC
 - `notebook_sentiment_analysis.ipynb` - Notebook principal del análisis
 - `requirements.txt` – Dependencias del proyecto 
 - `README.md` – Descripción general del proyecto
-- `imdb_reviews.tsv` - Datos fuente
+- `imdb_reviews.tsv` - Datos fuente (No incluidos)
 
 Los datos fueron proporcionados por Andrew L. Maas, Raymond E. Daly, Peter T. Pham, Dan Huang, Andrew Y. Ng, y Christopher Potts. (2011). Learning Word Vectors for Sentiment Analysis. La Reunión Anual 49 de la Asociación de Lingüística Computacional (ACL 2011).
+
+Si deseas reproducir este análisis, puedes:
+- Usar un conjunto similar como [IMDB Dataset en Kaggle](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
 
 ---
 
